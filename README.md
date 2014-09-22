@@ -1,7 +1,7 @@
 # Angular Labbkväll - Förbättrad version av Timegrip
 
 ## Installation
-- `git clone git@github.com:charlotteholmen/Angular-Labb.git`
+- `git clone https://github.com/charlotteholmen/Angular-Labb.git`
 - Starta en HTTP-server:
     - Om du ej har npm: `curl https://npmjs.org/install.sh | sh`
     - `npm install http-server -g`
