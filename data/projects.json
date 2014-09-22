@@ -1,0 +1,3162 @@
+[
+    {
+        "id": "ABVO",
+        "name": "Arla",
+        "shortName": "ABVO"
+    },
+    {
+        "id": "ABVO",
+        "name": "Riksdagen",
+        "shortName": "ABVO"
+    },
+    {
+        "id": "ABVO",
+        "name": "Galderma",
+        "shortName": "ABVO"
+    },
+    {
+        "id": "ABVO",
+        "name": "888",
+        "shortName": "ABVO"
+    },
+    {
+        "id": "ACO1401",
+        "name": "XL-S Medical Ambassador trial",
+        "shortName": "ACO"
+    },
+    {
+        "id": "ACO1403",
+        "name": "XL-S Medical - Fullskalig Digital tjänst",
+        "shortName": "ACO"
+    },
+    {
+        "id": "ACO1404",
+        "name": "Support Ambassador Trial",
+        "shortName": "ACO"
+    },
+    {
+        "id": "ACO1405",
+        "name": "OP Corporate website",
+        "shortName": "ACO"
+    },
+    {
+        "id": "ACO1406",
+        "name": "Platform recommendation",
+        "shortName": "ACO"
+    },
+    {
+        "id": "ACO1407",
+        "name": "Scale evaluation",
+        "shortName": "ACO"
+    },
+    {
+        "id": "ACO1408",
+        "name": "Digital dialog",
+        "shortName": "ACO"
+    },
+    {
+        "id": "ACO1409",
+        "name": "X-LS Instore device",
+        "shortName": "ACO"
+    },
+    {
+        "id": "ACO1410",
+        "name": "Ambassador trial Norway",
+        "shortName": "ACO"
+    },
+    {
+        "id": "ACO1411",
+        "name": "Predictor",
+        "shortName": "ACO"
+    },
+    {
+        "id": "ACO1412",
+        "name": "ACO new website",
+        "shortName": "ACO"
+    },
+    {
+        "id": "ACO1413",
+        "name": "Digital dialog steg 2",
+        "shortName": "ACO"
+    },
+    {
+        "id": "ACO1414",
+        "name": "WS Aco new website",
+        "shortName": "ACO"
+    },
+    {
+        "id": "ACO1415",
+        "name": "Teknisk dok. new website",
+        "shortName": "ACO"
+    },
+    {
+        "id": "ACO444",
+        "name": "Resor",
+        "shortName": "ACO"
+    },
+    {
+        "id": "ACO888",
+        "name": "Försäljning",
+        "shortName": "ACO"
+    },
+    {
+        "id": "ALEC",
+        "name": "Förstudie: Epi 7-uppgr",
+        "shortName": "ALEC"
+    },
+    {
+        "id": "ALEC0113",
+        "name": "Förvaltning",
+        "shortName": "ALEC"
+    },
+    {
+        "id": "ALEC2005",
+        "name": "KPI Outfox",
+        "shortName": "ALEC"
+    },
+    {
+        "id": "ALEC2009",
+        "name": "888 - Försäljning",
+        "shortName": "ALEC"
+    },
+    {
+        "id": "ALFP1401",
+        "name": "Marknadskartläggning",
+        "shortName": "ALFP"
+    },
+    {
+        "id": "APOT1304",
+        "name": "Koncept",
+        "shortName": "APGR"
+    },
+    {
+        "id": "APOT1305",
+        "name": "Utveckling",
+        "shortName": "APGR"
+    },
+    {
+        "id": "APOT1306",
+        "name": "Utbildning redaktörer",
+        "shortName": "APGR"
+    },
+    {
+        "id": "APOT1307",
+        "name": "Strategi fas 3",
+        "shortName": "APGR"
+    },
+    {
+        "id": "APOT1308",
+        "name": "Webbanalys /SEO",
+        "shortName": "APGR"
+    },
+    {
+        "id": "APOT1309",
+        "name": "Marknadsföring av recepttjänsten",
+        "shortName": "APGR"
+    },
+    {
+        "id": "APOT888",
+        "name": "Försäljning",
+        "shortName": "APGR"
+    },
+    {
+        "id": "ARLA",
+        "name": "/888 - Försäljning",
+        "shortName": "Arla"
+    },
+    {
+        "id": "ARLA",
+        "name": "/888 - Resor Arla SE",
+        "shortName": "Arla"
+    },
+    {
+        "id": "ARLA1210",
+        "name": "Vidareutveckling Arla.se",
+        "shortName": "Arla"
+    },
+    {
+        "id": "ARLA1213",
+        "name": "Butikswebb",
+        "shortName": "Utveckling) Arla"
+    },
+    {
+        "id": "ARLA2511",
+        "name": "SiteSeeker licenser",
+        "shortName": "Arla"
+    },
+    {
+        "id": "ARLA3051",
+        "name": "Vidareutveckling RDB",
+        "shortName": "SE-Budget) Arla"
+    },
+    {
+        "id": "ARLA3193",
+        "name": "Kundwebb V.1plus  ",
+        "shortName": "Utvecklingsprojekt) Arla"
+    },
+    {
+        "id": "ARLA3362",
+        "name": "Mathem på Arla.se",
+        "shortName": "Arla"
+    },
+    {
+        "id": "ARLA3401",
+        "name": "Minior bokning",
+        "shortName": "förstudie) Arla"
+    },
+    {
+        "id": "ARLA3491",
+        "name": "Kundwebb användartester",
+        "shortName": "Arla"
+    },
+    {
+        "id": "ARLA3492",
+        "name": "Kundwebb - Analys, KPI arbete",
+        "shortName": "Arla"
+    },
+    {
+        "id": "ARLA4011",
+        "name": "Kundwebb innehåll och taggning",
+        "shortName": "Arla"
+    },
+    {
+        "id": "ARLA4141",
+        "name": "Microsoft link to RDB",
+        "shortName": "SE-Budget) Arla"
+    },
+    {
+        "id": "ARLA4221",
+        "name": "Medlemshantering",
+        "shortName": "Arla"
+    },
+    {
+        "id": "ARLA4222",
+        "name": "Arla Shop",
+        "shortName": "Arla"
+    },
+    {
+        "id": "ARLA4351",
+        "name": "Hälsa",
+        "shortName": "Arla"
+    },
+    {
+        "id": "ARLA4361",
+        "name": "Hälsa",
+        "shortName": "Förstudie) Arla"
+    },
+    {
+        "id": "ARLA4362",
+        "name": "Hälsa (Implementation)",
+        "shortName": "Arla"
+    },
+    {
+        "id": "ARLA4401",
+        "name": "Kundwebb V.2 (Utvecklingsprojekt)",
+        "shortName": "Arla"
+    },
+    {
+        "id": "ARLA2211",
+        "name": "Further development Arla.dk",
+        "shortName": "ARLADK"
+    },
+    {
+        "id": "ARLA3101",
+        "name": "Further development RDB",
+        "shortName": "DK) ARLADK"
+    },
+    {
+        "id": "ARLA3261",
+        "name": "Program Management",
+        "shortName": "ARLADK"
+    },
+    {
+        "id": "ARLA3391",
+        "name": "Adjustments Arla.com",
+        "shortName": "ARLADK"
+    },
+    {
+        "id": "ARLA4041",
+        "name": "Global development",
+        "shortName": "ARLADK"
+    },
+    {
+        "id": "ARLA4161",
+        "name": "Anpassningar Monterosa mobilappar",
+        "shortName": "ARLADK"
+    },
+    {
+        "id": "ARLA4241",
+        "name": "CVI Version 2",
+        "shortName": "ARLADK"
+    },
+    {
+        "id": "ARLA4331",
+        "name": "Solution Architect Discussions",
+        "shortName": "ARLADK"
+    },
+    {
+        "id": "ARLA4341",
+        "name": "mit.arla.dk",
+        "shortName": "ARLADK"
+    },
+    {
+        "id": "ARLA4363",
+        "name": "Arla grocery sales",
+        "shortName": "ARLADK"
+    },
+    {
+        "id": "ARLADK",
+        "name": "/888 - Försäljning",
+        "shortName": "ARLADK"
+    },
+    {
+        "id": "ARLADK",
+        "name": "/888 - Resor Arla DK",
+        "shortName": "ARLADK"
+    },
+    {
+        "id": "ARLADK4061",
+        "name": "SiteSeeker licenser",
+        "shortName": "ARLADK"
+    },
+    {
+        "id": "ARLA3481",
+        "name": "Castello Release 1",
+        "shortName": "ARLACA"
+    },
+    {
+        "id": "ARLA3482",
+        "name": "Castello Release",
+        "shortName": "ARLACA"
+    },
+    {
+        "id": "ARLA3485",
+        "name": "Castello Webbanalys",
+        "shortName": "ARLACA"
+    },
+    {
+        "id": "ARLA3487",
+        "name": "Castello Paring tool - förstudie",
+        "shortName": "ARLACA"
+    },
+    {
+        "id": "ARLA3488",
+        "name": "Castello Social feed",
+        "shortName": "ARLACA"
+    },
+    {
+        "id": "ARLA3489",
+        "name": "Castello Campaignsite pop-up store",
+        "shortName": "ARLACA"
+    },
+    {
+        "id": "ARLA34891",
+        "name": "Castello filtration of products",
+        "shortName": "ARLACA"
+    },
+    {
+        "id": "ARLA34892",
+        "name": "Castello Redaktörsmanual",
+        "shortName": "ARLACA"
+    },
+    {
+        "id": "ARLA34893",
+        "name": "Castello Cheese Site",
+        "shortName": "ARLACA"
+    },
+    {
+        "id": "ARLA34894",
+        "name": "Castello Cheese Site Production",
+        "shortName": "ARLACA"
+    },
+    {
+        "id": "ARLA3490",
+        "name": "Castello hosting, support",
+        "shortName": "ARLACA"
+    },
+    {
+        "id": "ARLA3491",
+        "name": "888 - Castello Försäljning",
+        "shortName": "ARLACA"
+    },
+    {
+        "id": "ARLA3490",
+        "name": "Polish website",
+        "shortName": "ARLAPL"
+    },
+    {
+        "id": "Askus",
+        "name": "",
+        "shortName": "ASKU"
+    },
+    {
+        "id": "ASSA0001",
+        "name": "Central - Account Management",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA0002",
+        "name": "Central - 4th Line CC Support Only!",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA0003",
+        "name": "Central - Central Development",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA0004",
+        "name": "Central - Project Management",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA0005",
+        "name": "Central - SA Management",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA0006",
+        "name": "Central - Performance",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA0050",
+        "name": "OWNA - Phase 0 - Management",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA0051",
+        "name": "OWNA - Phase 1 - EPiServer Upg",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA0052",
+        "name": "OWNA - Phase 2 - A-B-C Concept",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA0053",
+        "name": "OWNA - Phase 3 - Improvements OW/EPi",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA0054",
+        "name": "OWNA - Phase 4 - New design",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA0055",
+        "name": "OWNA - Phase 5 - Responsive Framework",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA0056",
+        "name": "OWNA - Phase 6 - Pilot",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA0057",
+        "name": "OWNA - New Product section",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA0059",
+        "name": "OWNA - New search",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA0061",
+        "name": "OWNA - New Deploy Process",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA0109",
+        "name": "VingCard Elsafe AS",
+        "shortName": "Norway) Assa Abloy"
+    },
+    {
+        "id": "ASSA0110",
+        "name": "TRIOVING.NO",
+        "shortName": "Norway) Assa Abloy"
+    },
+    {
+        "id": "ASSA0117",
+        "name": "Vachette",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA0162",
+        "name": "ASSA.SE",
+        "shortName": "Sverige) Assa Abloy"
+    },
+    {
+        "id": "ASSA0169",
+        "name": "UNION UK",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA1000",
+        "name": "Licenser",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA1105",
+        "name": "YALE EMEA",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA1106",
+        "name": "Abloy.co.uk",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA1111",
+        "name": "Transition Support",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA1113",
+        "name": "ABLOY.FI",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA1200",
+        "name": "Entrance Systems - Crawford",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA1201",
+        "name": "ENTREMATIC",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA1204",
+        "name": "Veiligvanhuis",
+        "shortName": "Holland) Assa Abloy"
+    },
+    {
+        "id": "ASSA1205",
+        "name": "ASSA ABLOY AB - Corporate Website .COM",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA1301",
+        "name": "Headoffice",
+        "shortName": "Samuel) Assa Abloy"
+    },
+    {
+        "id": "ASSA2006",
+        "name": "888 - Försäljning",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA2011",
+        "name": "888 - New opportunities",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA4455",
+        "name": "Application management",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA9411",
+        "name": "M-T-L",
+        "shortName": "Israel) Assa Abloy"
+    },
+    {
+        "id": "ASSA9413",
+        "name": "Swesafe",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "ASSA9415",
+        "name": "ASSA ABLOY AB - .COM - Career section",
+        "shortName": "Assa Abloy"
+    },
+    {
+        "id": "AZEN4075",
+        "name": "AstraZenecaCV patient",
+        "shortName": "Astra"
+    },
+    {
+        "id": "ATLA1402",
+        "name": "Web usability and design project",
+        "shortName": "ATLA"
+    },
+    {
+        "id": "ATLA1403",
+        "name": "PHASEII - Web usability and design",
+        "shortName": "ATLA"
+    },
+    {
+        "id": "ATLA888",
+        "name": "Sälj",
+        "shortName": "ATLA"
+    },
+    {
+        "id": "BAXT1401",
+        "name": "NewBio_NewBax",
+        "shortName": "BAXT"
+    },
+    {
+        "id": "BON1301",
+        "name": "Stora Journalistpriset",
+        "shortName": "Bonnier"
+    },
+    {
+        "id": "BON1402",
+        "name": "Koncept/prototyp",
+        "shortName": "Bonnier"
+    },
+    {
+        "id": "BON1403",
+        "name": "Implementation av SP fas 1",
+        "shortName": "Bonnier"
+    },
+    {
+        "id": "BON888",
+        "name": "Försäljning",
+        "shortName": "Bonnier"
+    },
+    {
+        "id": "CAPI1202",
+        "name": "Implementation .com/se",
+        "shortName": "CAPI"
+    },
+    {
+        "id": "CAPI1205",
+        "name": "Support och förvaltning",
+        "shortName": "CAPI"
+    },
+    {
+        "id": "CAPI1208",
+        "name": "PDF",
+        "shortName": "CAPI"
+    },
+    {
+        "id": "CAPI1302",
+        "name": "Interimsupport",
+        "shortName": "CAPI"
+    },
+    {
+        "id": "CAPI1311",
+        "name": "Färgjusteringar",
+        "shortName": "CAPI"
+    },
+    {
+        "id": "CAPI1324",
+        "name": "Plattformen Sprint 7",
+        "shortName": "CAPI"
+    },
+    {
+        "id": "CAPI1326",
+        "name": "Närsjukvård Analytics",
+        "shortName": "CAPI"
+    },
+    {
+        "id": "CAPI1327",
+        "name": "Plattformen 7.1",
+        "shortName": "CAPI"
+    },
+    {
+        "id": "CAPI1329",
+        "name": "Rollout",
+        "shortName": "CAPI"
+    },
+    {
+        "id": "CAPI1330",
+        "name": "Handover",
+        "shortName": "CAPI"
+    },
+    {
+        "id": "0001",
+        "name": "workshop",
+        "shortName": "ComHem"
+    },
+    {
+        "id": "CRHA804",
+        "name": "Creuna IT Services",
+        "shortName": "CITS) CRHA"
+    },
+    {
+        "id": "CRHA901",
+        "name": "Webbmaster Creuna.com",
+        "shortName": "CRHA"
+    },
+    {
+        "id": "INTE1270",
+        "name": "#nyac^2",
+        "shortName": "CRHA"
+    },
+    {
+        "id": "INTE1401",
+        "name": "Test Qlickview",
+        "shortName": "CRHA"
+    },
+    {
+        "id": "CRHA805",
+        "name": "CSECS",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE001",
+        "name": "Digital Strategi Creuna",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE004",
+        "name": "Project Profitability Creuna Group",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE005",
+        "name": "Frukostseminarier",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE006",
+        "name": "webbdagarna gbg",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE101",
+        "name": "SIME 2011, 2012, 2013",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE1202",
+        "name": "Webbanalys &amp; SEO satsning",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE1271",
+        "name": "Creative Challenge Falkenberg",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE1272",
+        "name": "Creuna Strategi",
+        "shortName": "profil) Creuna"
+    },
+    {
+        "id": "INTE1291",
+        "name": "Tech R&amp;amp;amp;amp;D",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE1301",
+        "name": "Creuna2015",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE1303",
+        "name": "Kompisar i kvarteret",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE1304",
+        "name": "Innehåll",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE1317",
+        "name": "Group Strategy",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE1318",
+        "name": "Timegrip",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE1402",
+        "name": "Digitala Veckan",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE1403",
+        "name": "Redmine vidareutv",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE1404",
+        "name": "Webbdagarna 2014",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE1405",
+        "name": "R&amp;amp;amp;D Design",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE1406",
+        "name": "Teamansvarig",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE1407",
+        "name": "Rekryteringsaktiviteter",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE1408",
+        "name": "Sprinkler",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE1410",
+        "name": "Creuna2017",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE1411",
+        "name": "sommarfest_Gbg",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE1412",
+        "name": "Fastighet",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE1413",
+        "name": "Jr Introduktion",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE1414",
+        "name": "Braincamp",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE201",
+        "name": "Cap &amp; Design presentation",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE2013",
+        "name": "Webbdagarna 2013",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE2666",
+        "name": "Creuna Eco Web",
+        "shortName": "Återanvändning) Creuna"
+    },
+    {
+        "id": "INTE601",
+        "name": "Creuna Platform",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE602",
+        "name": "Creuna.se löpande",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE603",
+        "name": "Metodarbete",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE604",
+        "name": "Säljstöd",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE605",
+        "name": "Marketing",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE608",
+        "name": "INSM",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE609",
+        "name": "Digitala skärmar",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE701",
+        "name": "",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE702",
+        "name": "Creuna grafisk profil",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE703",
+        "name": "Creuna Digital Branding",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE801",
+        "name": "Creuna Open Source",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE802",
+        "name": "Julfest",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTE902",
+        "name": "Intern IT",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "INTERNTID",
+        "name": "Interntid",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "MALL9001",
+        "name": "Projektledning",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "MALL9002",
+        "name": "Interaktionsdesign",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "MALL9003",
+        "name": "Implementation",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "MALL9004",
+        "name": "Test",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "Röda",
+        "name": "",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "x",
+        "name": "FRÅNVARO",
+        "shortName": "Creuna"
+    },
+    {
+        "id": "Interna",
+        "name": "administration",
+        "shortName": "ADM"
+    },
+    {
+        "id": "Interna",
+        "name": "marknad",
+        "shortName": "ADM"
+    },
+    {
+        "id": "Interna",
+        "name": "AM",
+        "shortName": "Sälj"
+    },
+    {
+        "id": "Interna",
+        "name": "PL",
+        "shortName": "PL"
+    },
+    {
+        "id": "Interna",
+        "name": "test",
+        "shortName": "Test"
+    },
+    {
+        "id": "INTE1201",
+        "name": "Designhub",
+        "shortName": "F"
+    },
+    {
+        "id": "Interna",
+        "name": "design",
+        "shortName": "F"
+    },
+    {
+        "id": "Interna",
+        "name": "interaktionsdesign",
+        "shortName": "ID"
+    },
+    {
+        "id": "Interna",
+        "name": "Tech",
+        "shortName": "Tech"
+    },
+    {
+        "id": "Interna",
+        "name": "Tech 1",
+        "shortName": "Thomas O) Tech 1"
+    },
+    {
+        "id": "Interna",
+        "name": "Tech 2",
+        "shortName": "Daniel W) Tech 2"
+    },
+    {
+        "id": "Interna",
+        "name": "Göteborg",
+        "shortName": "GBG"
+    },
+    {
+        "id": "CRDK600",
+        "name": "Creuna DK",
+        "shortName": "CRDK"
+    },
+    {
+        "id": "CRDK601",
+        "name": "Creuna DK IT Support",
+        "shortName": "CRDK"
+    },
+    {
+        "id": "CRDK9020",
+        "name": "Marknadsföring åt Creuna DK",
+        "shortName": "CRDK"
+    },
+    {
+        "id": "CROY100",
+        "name": "Vidarefakturering",
+        "shortName": "CRFI"
+    },
+    {
+        "id": "CROY2001",
+        "name": "Konsultstöd",
+        "shortName": "CRFI"
+    },
+    {
+        "id": "CNO1401",
+        "name": "Visitnorway",
+        "shortName": "CREUNA_NO"
+    },
+    {
+        "id": "CNO601",
+        "name": "Creuna NO IT Support",
+        "shortName": "CREUNA_NO"
+    },
+    {
+        "id": "CNO800",
+        "name": "Koncept/Pitch hjälp",
+        "shortName": "CREUNA_NO"
+    },
+    {
+        "id": "DVAL",
+        "name": "888",
+        "shortName": "DVAL"
+    },
+    {
+        "id": "0001",
+        "name": "upphandling",
+        "shortName": "EHÄL"
+    },
+    {
+        "id": "Workshop",
+        "name": "No name",
+        "shortName": "EHÄL"
+    },
+    {
+        "id": "ELUX",
+        "name": "UX och design",
+        "shortName": "ELUX"
+    },
+    {
+        "id": "ELUX2013",
+        "name": "888 - Försäljning",
+        "shortName": "ELUX"
+    },
+    {
+        "id": "ELUX3002",
+        "name": "Initate and Plan finalize",
+        "shortName": "ELUX"
+    },
+    {
+        "id": "ELUX4001",
+        "name": "Research",
+        "shortName": "ELUX"
+    },
+    {
+        "id": "ELUX4002",
+        "name": "Concept Definition",
+        "shortName": "ELUX"
+    },
+    {
+        "id": "ELUX4004",
+        "name": "UX and FE Build finalize",
+        "shortName": "ELUX"
+    },
+    {
+        "id": "ELUX4101",
+        "name": "SEO &amp; Content Work",
+        "shortName": "ELUX"
+    },
+    {
+        "id": "ELUX4102",
+        "name": "Redesign",
+        "shortName": "ELUX"
+    },
+    {
+        "id": "ELUX4103",
+        "name": "Content production",
+        "shortName": "ELUX"
+    },
+    {
+        "id": "Vidareutveckling",
+        "name": "",
+        "shortName": "ELUX"
+    },
+    {
+        "id": "EPiServer",
+        "name": "",
+        "shortName": "EPi"
+    },
+    {
+        "id": "FOLK0010",
+        "name": "Support",
+        "shortName": "Folkhälsan"
+    },
+    {
+        "id": "FOLK0020",
+        "name": "Startsida Redesign",
+        "shortName": "Folkhälsan"
+    },
+    {
+        "id": "FOLK2009",
+        "name": "888 - Försäljning",
+        "shortName": "Folkhälsan"
+    },
+    {
+        "id": "FRDS1000",
+        "name": "Licenser",
+        "shortName": "Friend"
+    },
+    {
+        "id": "FRDS1201",
+        "name": "friendsarena.se",
+        "shortName": "Friend"
+    },
+    {
+        "id": "FRDS1201",
+        "name": "friendsarena.se redesign",
+        "shortName": "Friend"
+    },
+    {
+        "id": "FRDS1204",
+        "name": "Skärmar",
+        "shortName": "Friend"
+    },
+    {
+        "id": "FRDS1206",
+        "name": "portal",
+        "shortName": "Friend"
+    },
+    {
+        "id": "FRDS1301",
+        "name": "vidareutveckling medlemskap 2014",
+        "shortName": "Friend"
+    },
+    {
+        "id": "FRDS888",
+        "name": "Försäljning",
+        "shortName": "Friend"
+    },
+    {
+        "id": "GALD1301",
+        "name": "Fas 2 HCP site",
+        "shortName": "Galderma"
+    },
+    {
+        "id": "GALD8888",
+        "name": "Försäljning",
+        "shortName": "Galderma"
+    },
+    {
+        "id": "GARO",
+        "name": "- Hand-over project",
+        "shortName": "GARO"
+    },
+    {
+        "id": "GARO",
+        "name": "- Retainer core team",
+        "shortName": "GARO"
+    },
+    {
+        "id": "GARO",
+        "name": "- IQD Navigator",
+        "shortName": "GARO"
+    },
+    {
+        "id": "GARO",
+        "name": "- Artis Physio",
+        "shortName": "GARO"
+    },
+    {
+        "id": "GARO",
+        "name": "- Baxter Compounding Application",
+        "shortName": "GARO"
+    },
+    {
+        "id": "GARO",
+        "name": "- Gambro 301",
+        "shortName": "GARO"
+    },
+    {
+        "id": "GARO",
+        "name": "Försäljning",
+        "shortName": "GARO"
+    },
+    {
+        "id": "GARO",
+        "name": "",
+        "shortName": "GARO"
+    },
+    {
+        "id": "GARO6800",
+        "name": "Licenser",
+        "shortName": "GARO"
+    },
+    {
+        "id": "GOST1305",
+        "name": "Uppföljning verksamheter Barnkultur",
+        "shortName": "GOST"
+    },
+    {
+        "id": "GOST888",
+        "name": "Försäljning",
+        "shortName": "GOST"
+    },
+    {
+        "id": "GBGVH888",
+        "name": "Försäljning",
+        "shortName": "GBGVH"
+    },
+    {
+        "id": "GOEV1401",
+        "name": "Underlag till avrop",
+        "shortName": "GOEV"
+    },
+    {
+        "id": "GOEV888",
+        "name": "undefined",
+        "shortName": "GOEV"
+    },
+    {
+        "id": "HAND1105",
+        "name": "Löpande CI",
+        "shortName": "HAND"
+    },
+    {
+        "id": "HAND1307",
+        "name": "EFN",
+        "shortName": "HAND"
+    },
+    {
+        "id": "HAND1308",
+        "name": "EFN - buggar",
+        "shortName": "HAND"
+    },
+    {
+        "id": "HAND1401",
+        "name": "WEB2 Mattias Karlsson",
+        "shortName": "HAND"
+    },
+    {
+        "id": "HAND1403",
+        "name": "EFN Reon",
+        "shortName": "HAND"
+    },
+    {
+        "id": "HAND1404",
+        "name": "Samsung Smart TV App",
+        "shortName": "HAND"
+    },
+    {
+        "id": "HAND2010",
+        "name": "888 - Försäljning",
+        "shortName": "HAND"
+    },
+    {
+        "id": "HAND9007",
+        "name": "Löpande HDMM",
+        "shortName": "HAND"
+    },
+    {
+        "id": "Ny",
+        "name": "och Design för mobilapparna",
+        "shortName": "HAND"
+    },
+    {
+        "id": "Prototyp",
+        "name": "",
+        "shortName": "HAND"
+    },
+    {
+        "id": "HERM",
+        "name": "- Förvaltning",
+        "shortName": "HERM"
+    },
+    {
+        "id": "HERM3490",
+        "name": "hermods.se",
+        "shortName": "HERM"
+    },
+    {
+        "id": "HERM3491",
+        "name": "hermods.se 0 kr",
+        "shortName": "HERM"
+    },
+    {
+        "id": "HERM3491",
+        "name": "rådgivning/strategi",
+        "shortName": "HERM"
+    },
+    {
+        "id": "HERM3492",
+        "name": "IT-css",
+        "shortName": "HERM"
+    },
+    {
+        "id": "HERM4201",
+        "name": "skolwebbar",
+        "shortName": "HERM"
+    },
+    {
+        "id": "HERM888",
+        "name": "Försäljning",
+        "shortName": "HERM"
+    },
+    {
+        "id": "HUKO3511",
+        "name": "Digital Grafisk Profil",
+        "shortName": "HUKO"
+    },
+    {
+        "id": "HUKO4270",
+        "name": "BMC workshops_strategi",
+        "shortName": "HUKO"
+    },
+    {
+        "id": "HUKO4270",
+        "name": "Design Huddinge.se",
+        "shortName": "HUKO"
+    },
+    {
+        "id": "HUFV",
+        "name": "Förvaltning SEO, webbanalys och mätning",
+        "shortName": "HUFV"
+    },
+    {
+        "id": "HUFV1303",
+        "name": "Löpande rådgivning",
+        "shortName": "HUFV"
+    },
+    {
+        "id": "HUFV1306",
+        "name": "Löpande support",
+        "shortName": "HUFV"
+    },
+    {
+        "id": "HUFV888",
+        "name": "Försäljning Hufvudstaden",
+        "shortName": "HUFV"
+    },
+    {
+        "id": "ICA",
+        "name": "888 försäljning",
+        "shortName": "ICA"
+    },
+    {
+        "id": "ICA1301",
+        "name": "Koncernwebb",
+        "shortName": "ICA"
+    },
+    {
+        "id": "ICA1301",
+        "name": "Koncernwebb FAS 2",
+        "shortName": "ICA"
+    },
+    {
+        "id": "ICA1426",
+        "name": "Rapportportal",
+        "shortName": "ICA"
+    },
+    {
+        "id": "ICA1427",
+        "name": "Extrabeställningar",
+        "shortName": "ICA"
+    },
+    {
+        "id": "IKEA1201",
+        "name": "Architect Common solution Study",
+        "shortName": "IKEA"
+    },
+    {
+        "id": "IKEA1301",
+        "name": "information management",
+        "shortName": "IKEA"
+    },
+    {
+        "id": "EU1000",
+        "name": "888 - sälj",
+        "shortName": "EU-upplysn"
+    },
+    {
+        "id": "EU1002",
+        "name": "PL, strat, SA",
+        "shortName": "EU-upplysn"
+    },
+    {
+        "id": "EU1004",
+        "name": "Vidareutveckling",
+        "shortName": "EU-upplysn"
+    },
+    {
+        "id": "EU1006",
+        "name": "Mål och mätning",
+        "shortName": "EU-upplysn"
+    },
+    {
+        "id": "ISM",
+        "name": "- Sälj",
+        "shortName": "INSM"
+    },
+    {
+        "id": "ISM1301",
+        "name": "FE-utveckling",
+        "shortName": "INSM"
+    },
+    {
+        "id": "ISM1302",
+        "name": "Konsulting för Instore",
+        "shortName": "INSM"
+    },
+    {
+        "id": "ISM1303",
+        "name": "Review Marknadsstrategi",
+        "shortName": "INSM"
+    },
+    {
+        "id": "ISM1304",
+        "name": "Ny INSM-webbplats",
+        "shortName": "INSM"
+    },
+    {
+        "id": "ISM1401",
+        "name": "ITflytt",
+        "shortName": "INSM"
+    },
+    {
+        "id": "JM701",
+        "name": "Hantering av licenser",
+        "shortName": "JM"
+    },
+    {
+        "id": "KARO1120",
+        "name": "Inuti Release 1.3",
+        "shortName": "KARO"
+    },
+    {
+        "id": "KARO1303",
+        "name": "Extraorder Q3",
+        "shortName": "KARO"
+    },
+    {
+        "id": "KARO1304",
+        "name": "Inuti fas 2 steg 1",
+        "shortName": "KARO"
+    },
+    {
+        "id": "KARO1304",
+        "name": "Inuti fas 2 steg 2",
+        "shortName": "KARO"
+    },
+    {
+        "id": "KARO1405",
+        "name": "Implementation KUL Karolinska.se",
+        "shortName": "KARO"
+    },
+    {
+        "id": "KARO1406",
+        "name": "Förvaltning 4 Karolinska.se",
+        "shortName": "KARO"
+    },
+    {
+        "id": "KARO1406",
+        "name": "Implementation Xform",
+        "shortName": "KARO"
+    },
+    {
+        "id": "KARO2001",
+        "name": "Inuti Förvaltning",
+        "shortName": "KARO"
+    },
+    {
+        "id": "KARO2199",
+        "name": "Licenser",
+        "shortName": "KARO"
+    },
+    {
+        "id": "KARO3461",
+        "name": "Karolinska Kvalitetssäkringssystemet",
+        "shortName": "KARO"
+    },
+    {
+        "id": "KS2010",
+        "name": "888 - Försäljning",
+        "shortName": "KARO"
+    },
+    {
+        "id": "KUST",
+        "name": "Digital partner",
+        "shortName": "KUST"
+    },
+    {
+        "id": "LIRO1010",
+        "name": "Social media",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO1225",
+        "name": "Monthly statistics",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO1234",
+        "name": "Gravidbok",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO1236",
+        "name": "Global Social Media strategy",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO1237",
+        "name": "Instagram för LEM",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO1239",
+        "name": "Measure drop outs from sign up",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO1241",
+        "name": "Vinn ett hus NO",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO1242",
+        "name": "Duplo",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO1243",
+        "name": "Puppet",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO1244",
+        "name": "Konkurrentanalys",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO1245",
+        "name": "Enkätundersökning",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO1247",
+        "name": "app",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO1248",
+        "name": "Strategi 2014",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO1249",
+        "name": "dig gravidbok",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO1250",
+        "name": "Lamino Samurai",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO1251",
+        "name": "Updatera app",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO1252",
+        "name": "Kartfunktion",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO1253",
+        "name": "Youtube",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO1254",
+        "name": "Animal",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO1255",
+        "name": "Social media workshop",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO2001",
+        "name": "LiberoClub",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LIRO2010",
+        "name": "888 - försäljning",
+        "shortName": "LIRO"
+    },
+    {
+        "id": "LISE0010",
+        "name": "Support/SCA IT",
+        "shortName": "LISE"
+    },
+    {
+        "id": "LISE0011",
+        "name": "Statistical report",
+        "shortName": "LISE"
+    },
+    {
+        "id": "LISE2010",
+        "name": "888 - Försäljning",
+        "shortName": "LISE"
+    },
+    {
+        "id": "LISK0060",
+        "name": "Feminine web activities",
+        "shortName": "LISK"
+    },
+    {
+        "id": "LISK2010",
+        "name": "888 - Försäljning",
+        "shortName": "LISK"
+    },
+    {
+        "id": "LISM0010",
+        "name": "UK",
+        "shortName": "LISM"
+    },
+    {
+        "id": "LISM0020",
+        "name": "Netherlands",
+        "shortName": "LISM"
+    },
+    {
+        "id": "LISM0030",
+        "name": "France",
+        "shortName": "LISM"
+    },
+    {
+        "id": "LISM0050",
+        "name": "Russia",
+        "shortName": "LISM"
+    },
+    {
+        "id": "LISM0060",
+        "name": "Italy",
+        "shortName": "LISM"
+    },
+    {
+        "id": "LISM2010",
+        "name": "Adriatics",
+        "shortName": "LISM"
+    },
+    {
+        "id": "LISM2010",
+        "name": "888 - Försäljning",
+        "shortName": "LISM"
+    },
+    {
+        "id": "LISM3010",
+        "name": "Netherlands Pink Ticket",
+        "shortName": "LISM"
+    },
+    {
+        "id": "LISN0010",
+        "name": "Extra orders",
+        "shortName": "LISN"
+    },
+    {
+        "id": "LISN0017",
+        "name": "Facebook",
+        "shortName": "LISN"
+    },
+    {
+        "id": "LISN0020",
+        "name": "Youngster Extra Orders",
+        "shortName": "LISN"
+    },
+    {
+        "id": "LISN0030",
+        "name": "Webmaster och planner",
+        "shortName": "LISN"
+    },
+    {
+        "id": "LISN0040",
+        "name": "Planner o statistik",
+        "shortName": "LISN"
+    },
+    {
+        "id": "LISN0060",
+        "name": "Girls1st",
+        "shortName": "LISN"
+    },
+    {
+        "id": "LISN2012",
+        "name": "888 - Försäljning",
+        "shortName": "LISN"
+    },
+    {
+        "id": "LISN2015",
+        "name": "Webbanalys",
+        "shortName": "LISN"
+    },
+    {
+        "id": "LISN2017",
+        "name": "Periodical app",
+        "shortName": "LISN"
+    },
+    {
+        "id": "LISN2020",
+        "name": "Pink Ticket",
+        "shortName": "LISN"
+    },
+    {
+        "id": "LISN2023",
+        "name": "Win what you want 2014",
+        "shortName": "LISN"
+    },
+    {
+        "id": "LISN2024",
+        "name": "Banners",
+        "shortName": "LISN"
+    },
+    {
+        "id": "LISN2025",
+        "name": "Period Couture",
+        "shortName": "LISN"
+    },
+    {
+        "id": "LISN2026",
+        "name": "Roll Press Go",
+        "shortName": "LISN"
+    },
+    {
+        "id": "LISN2027",
+        "name": "YouTube",
+        "shortName": "LISN"
+    },
+    {
+        "id": "LISN2028",
+        "name": "rpg thc",
+        "shortName": "LISN"
+    },
+    {
+        "id": "LISN2029",
+        "name": "VOR",
+        "shortName": "LISN"
+    },
+    {
+        "id": "LISN2030",
+        "name": "Multistyle",
+        "shortName": "LISN"
+    },
+    {
+        "id": "LISB1201",
+        "name": "888 - försäljning",
+        "shortName": "LISB"
+    },
+    {
+        "id": "LISB1205",
+        "name": "- Restid",
+        "shortName": "LISB"
+    },
+    {
+        "id": "LISB1209",
+        "name": "Ny website",
+        "shortName": "LISB"
+    },
+    {
+        "id": "LISB1302",
+        "name": "LIseberg koordinering/rådgivning marknad",
+        "shortName": "LISB"
+    },
+    {
+        "id": "LISB1310",
+        "name": "2014",
+        "shortName": "LISB"
+    },
+    {
+        "id": "KARO1404",
+        "name": "Implementation fas 4 Karolinska.se",
+        "shortName": "KARO"
+    },
+    {
+        "id": "MÖLN1399",
+        "name": "Restid",
+        "shortName": "Mölnlycke"
+    },
+    {
+        "id": "MÖLN888",
+        "name": "",
+        "shortName": "Mölnlycke"
+    },
+    {
+        "id": "MOND1302",
+        "name": "Marabou.se",
+        "shortName": "MONDEU"
+    },
+    {
+        "id": "MOND1403",
+        "name": "Daim FB Content",
+        "shortName": "MONDEU"
+    },
+    {
+        "id": "MOND1404",
+        "name": "Marabou förvaltning",
+        "shortName": "MONDEU"
+    },
+    {
+        "id": "MOND888",
+        "name": "Försäljning",
+        "shortName": "MONDEU"
+    },
+    {
+        "id": "Nacka",
+        "name": "",
+        "shortName": "NACK"
+    },
+    {
+        "id": "NORD1101",
+        "name": "Digital Marketing",
+        "shortName": "NORD"
+    },
+    {
+        "id": "NORD1107",
+        "name": "Check in - Banken på FB",
+        "shortName": "NORD"
+    },
+    {
+        "id": "NORD1203",
+        "name": "Markets SP-site Finland",
+        "shortName": "NORD"
+    },
+    {
+        "id": "NORD1313",
+        "name": "FB Julkampanj",
+        "shortName": "NORD"
+    },
+    {
+        "id": "NORD1401",
+        "name": "Markets",
+        "shortName": "NORD"
+    },
+    {
+        "id": "NORD888",
+        "name": "Försäljning",
+        "shortName": "NORD"
+    },
+    {
+        "id": "OMX2008",
+        "name": "888 - Löpande försäljning",
+        "shortName": "OMX"
+    },
+    {
+        "id": "OPPO1000",
+        "name": "Hyra",
+        "shortName": "OPPO"
+    },
+    {
+        "id": "POIN0005",
+        "name": "Licenser",
+        "shortName": "POIN"
+    },
+    {
+        "id": "POIN010",
+        "name": "Förvaltning",
+        "shortName": "POIN"
+    },
+    {
+        "id": "POIN080",
+        "name": "Redesign",
+        "shortName": "POIN"
+    },
+    {
+        "id": "POIN1307",
+        "name": "Startsida redesign",
+        "shortName": "POIN"
+    },
+    {
+        "id": "POIN2010",
+        "name": "888 - Försäljning",
+        "shortName": "POIN"
+    },
+    {
+        "id": "PRTJ",
+        "name": "AODT",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "PRTJ008",
+        "name": "Löpande support och förvaltning",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "PRTJ012",
+        "name": "Kritiska supportärenden",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "PRTJ013",
+        "name": "INSIKT Vidareutveckling",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "PRTJ1000",
+        "name": "Licenser",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "PRTJ1101",
+        "name": "Strategi och förstudie",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "PRTJ1102",
+        "name": "Kampanjsite Vårdval Sverige",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "PRTJ1102",
+        "name": "Mottagningswebbar",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "PRTJ1103",
+        "name": "Koncernwebb",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "PRTJ1105",
+        "name": "Koncernwebb",
+        "shortName": "Kursbokning) PTRJ"
+    },
+    {
+        "id": "PRTJ1302",
+        "name": "Responsivt Insikt",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "PRTJ1303",
+        "name": "Ledningssystem",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "PRTJ1304",
+        "name": "Applikationsanalys",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "PRTJ1305",
+        "name": "Webbshop",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "PRTJ1306",
+        "name": "Nyhetsbrev",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "PRTJ1307",
+        "name": "Webbanalys Insikt",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "PRTJ1308",
+        "name": "Responsive log-in page för Insikt",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "PRTJ1401",
+        "name": "Webbanalys Support",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "PRTJ1402",
+        "name": "Praktikertjänst Psykiatri",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "PRTJ1403",
+        "name": "Praktikertjänst Nära",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "PRTJ4101",
+        "name": "BB Sophia",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "PRTJ888",
+        "name": "Försäljning",
+        "shortName": "PTRJ"
+    },
+    {
+        "id": "TLV3364",
+        "name": "Utveckling tlv.se",
+        "shortName": "QBRA"
+    },
+    {
+        "id": "TLV8888",
+        "name": "Försäljning tlv",
+        "shortName": "QBRA"
+    },
+    {
+        "id": "Reitan_888",
+        "name": "Rejtan",
+        "shortName": "Reitan"
+    },
+    {
+        "id": "HELG1000",
+        "name": "888 - Sälj",
+        "shortName": "RDFV2"
+    },
+    {
+        "id": "HELG1001",
+        "name": "Teknisk förstudie",
+        "shortName": "RDFV2"
+    },
+    {
+        "id": "HELG1002",
+        "name": "Mätning och uppföljning",
+        "shortName": "RDFV2"
+    },
+    {
+        "id": "HELG1003",
+        "name": "Löpande support och rådgivning",
+        "shortName": "RDFV2"
+    },
+    {
+        "id": "HELG1004",
+        "name": "Behovsanalys nytt Helgonet",
+        "shortName": "RDFV2"
+    },
+    {
+        "id": "RIKS3001",
+        "name": "Nytt Intranät",
+        "shortName": "RDFV2"
+    },
+    {
+        "id": "ROXT001",
+        "name": "Digital strategi",
+        "shortName": "ROXT"
+    },
+    {
+        "id": "ROXT002",
+        "name": "CMS Rekommendation",
+        "shortName": "ROXT"
+    },
+    {
+        "id": "ROXT002",
+        "name": "Försäljning",
+        "shortName": "ROXT"
+    },
+    {
+        "id": "SAMT9010",
+        "name": "Småbeställningar",
+        "shortName": "Samtr"
+    },
+    {
+        "id": "SAN1000",
+        "name": "Licenser",
+        "shortName": "Sanof"
+    },
+    {
+        "id": "SAN1301",
+        "name": "Feedbackfunktion - Tummen upp",
+        "shortName": "Sanof"
+    },
+    {
+        "id": "SAN1303",
+        "name": "Lyxumia.se - Diabetes",
+        "shortName": "Sanof"
+    },
+    {
+        "id": "SAN1304",
+        "name": "Förnyelse MS-guiden.SE",
+        "shortName": "Sanof"
+    },
+    {
+        "id": "SAN1305",
+        "name": "Webbanalys fas 3",
+        "shortName": "Sanof"
+    },
+    {
+        "id": "SAN1401",
+        "name": "Allegra.nu - ny redesign",
+        "shortName": "Sanof"
+    },
+    {
+        "id": "SAN1403",
+        "name": "SanofiDiabetes &amp;quot;Portal&amp;quot;",
+        "shortName": "Sanof"
+    },
+    {
+        "id": "SANO2008",
+        "name": "888 - Försäljning",
+        "shortName": "Sanof"
+    },
+    {
+        "id": "SANO810",
+        "name": "Coordination",
+        "shortName": "Sanof"
+    },
+    {
+        "id": "SANO810",
+        "name": "Lantus Brand Name Replacement",
+        "shortName": "Sanof"
+    },
+    {
+        "id": "SANO811",
+        "name": "Sanofi PO orders",
+        "shortName": "Sanof"
+    },
+    {
+        "id": "SANO811",
+        "name": "Sanofi PO orders DK",
+        "shortName": "Sano"
+    },
+    {
+        "id": "SAN1306",
+        "name": "Re-design MS-guiden.NO",
+        "shortName": "SanoNO"
+    },
+    {
+        "id": "SAN1402",
+        "name": "Paralen New site/skin",
+        "shortName": "SanoNO"
+    },
+    {
+        "id": "SAN1404",
+        "name": "Brulidine",
+        "shortName": "SanoNO"
+    },
+    {
+        "id": "SCDC0888",
+        "name": "New web platform",
+        "shortName": "SCDC"
+    },
+    {
+        "id": "SEMP1001",
+        "name": "Site Management",
+        "shortName": "Semper"
+    },
+    {
+        "id": "SEMP888",
+        "name": "Säljaktiviteter",
+        "shortName": "Semper"
+    },
+    {
+        "id": "SEMD1117",
+        "name": "Site Management DK",
+        "shortName": "Semper DK"
+    },
+    {
+        "id": "SEMN1119",
+        "name": "Site Management NO",
+        "shortName": "Semper NO"
+    },
+    {
+        "id": "SKHLM1401",
+        "name": "Nya Skhlm.se",
+        "shortName": "SKHLM888"
+    },
+    {
+        "id": "SKHLM1402",
+        "name": "Skärmar Instore",
+        "shortName": "SKHLM888"
+    },
+    {
+        "id": "SKHLM888",
+        "name": "Försäljning",
+        "shortName": "SKHLM888"
+    },
+    {
+        "id": "SL2009",
+        "name": "888 - försäljning",
+        "shortName": "SL"
+    },
+    {
+        "id": "SL2120",
+        "name": "Prototyp responsive sl.se",
+        "shortName": "SL"
+    },
+    {
+        "id": "SL2121",
+        "name": "implementation responsive sl.se",
+        "shortName": "SL"
+    },
+    {
+        "id": "SLL2001",
+        "name": "LSF intranät",
+        "shortName": "SLL"
+    },
+    {
+        "id": "SLL2361",
+        "name": "Webbstrategi SLL.se",
+        "shortName": "SLL"
+    },
+    {
+        "id": "SLL2362",
+        "name": "Webbstrategi SLL.se FAS 2",
+        "shortName": "SLL"
+    },
+    {
+        "id": "SLL2365",
+        "name": "Varumärkesarbete",
+        "shortName": "SLL"
+    },
+    {
+        "id": "SLL2368",
+        "name": "Webbanalys",
+        "shortName": "SLL"
+    },
+    {
+        "id": "SLL2373",
+        "name": "Implementation SLL.se FAS 3",
+        "shortName": "SLL"
+    },
+    {
+        "id": "SLL2376",
+        "name": "Implementation SLL.se FAS 4",
+        "shortName": "SLL"
+    },
+    {
+        "id": "SLL2377",
+        "name": "Förvaltning Q3/Q4",
+        "shortName": "SLL"
+    },
+    {
+        "id": "SLL2378",
+        "name": "Innehållsstöd SLL.se FAS 4",
+        "shortName": "SLL"
+    },
+    {
+        "id": "SLL2378",
+        "name": "SLL.se Licenser",
+        "shortName": "SLL"
+    },
+    {
+        "id": "SLL2379",
+        "name": "Webbanalys och mätning",
+        "shortName": "SLL"
+    },
+    {
+        "id": "SLL2401",
+        "name": "St Eriks ögonsjukhus Intranät",
+        "shortName": "SLL"
+    },
+    {
+        "id": "SLL2402",
+        "name": "St Eriks ögonsjukhus strategi",
+        "shortName": "SLL"
+    },
+    {
+        "id": "SLL888",
+        "name": "Försäljning",
+        "shortName": "SLL"
+    },
+    {
+        "id": "Spot",
+        "name": "intranät-sälj888",
+        "shortName": "SPOT"
+    },
+    {
+        "id": "Spot1401",
+        "name": "Intranät",
+        "shortName": "SPOT"
+    },
+    {
+        "id": "Spot1402",
+        "name": "HR Profile Page",
+        "shortName": "SPOT"
+    },
+    {
+        "id": "Spot667",
+        "name": "Intranät förvaltning",
+        "shortName": "SPOT"
+    },
+    {
+        "id": "SPP",
+        "name": "",
+        "shortName": "SPP"
+    },
+    {
+        "id": "SPP",
+        "name": "-  Försäljning",
+        "shortName": "SPP"
+    },
+    {
+        "id": "SPP3001",
+        "name": "Digital partner 2014",
+        "shortName": "SPP"
+    },
+    {
+        "id": "SPP3002",
+        "name": "Höstkampanj2013",
+        "shortName": "SPP"
+    },
+    {
+        "id": "SPP3005",
+        "name": "Vårkampanj2014",
+        "shortName": "SPP"
+    },
+    {
+        "id": "SPP3003",
+        "name": "Användbarhetsanalys och heatmaps",
+        "shortName": "SPP Spar"
+    },
+    {
+        "id": "SPP3004",
+        "name": "Användarintervjuer",
+        "shortName": "SPP Spar"
+    },
+    {
+        "id": "STAD1000",
+        "name": "Licenser",
+        "shortName": "STAD"
+    },
+    {
+        "id": "STOS9001",
+        "name": "Presentationsmaterial",
+        "shortName": "STOS"
+    },
+    {
+        "id": "SBR001",
+        "name": "VisitStockholm-annons",
+        "shortName": "SBR"
+    },
+    {
+        "id": "SBR001",
+        "name": "VisitStockholm-beta",
+        "shortName": "SBR"
+    },
+    {
+        "id": "SBR002",
+        "name": "Förvaltning och support",
+        "shortName": "SBR"
+    },
+    {
+        "id": "SBR003",
+        "name": "Branschwebbarna - Koncept",
+        "shortName": "SBR"
+    },
+    {
+        "id": "SBR014",
+        "name": "Webbanalys support",
+        "shortName": "SBR"
+    },
+    {
+        "id": "SBR031",
+        "name": "",
+        "shortName": "SBR"
+    },
+    {
+        "id": "SBR033",
+        "name": "SVB",
+        "shortName": "SBR"
+    },
+    {
+        "id": "SBR0333",
+        "name": "- omtag press",
+        "shortName": "SBR"
+    },
+    {
+        "id": "SBR034",
+        "name": "Stockholm Sounds",
+        "shortName": "SBR"
+    },
+    {
+        "id": "SBR035",
+        "name": "SBRD, Digitala kartor",
+        "shortName": "SBR"
+    },
+    {
+        "id": "SBR036",
+        "name": "SBRD, LifeScience Hotlist",
+        "shortName": "SBR"
+    },
+    {
+        "id": "SBR037",
+        "name": "SBRD, Cleantech hotlist",
+        "shortName": "SBR"
+    },
+    {
+        "id": "SBR038",
+        "name": "SBA nätverk",
+        "shortName": "SBR"
+    },
+    {
+        "id": "SBR040",
+        "name": "Klimatpakten",
+        "shortName": "SBR"
+    },
+    {
+        "id": "SBR1000",
+        "name": "Licenser",
+        "shortName": "SBR"
+    },
+    {
+        "id": "SBR111",
+        "name": "Sökordsstrategi",
+        "shortName": "SBR"
+    },
+    {
+        "id": "SBR2010",
+        "name": "888",
+        "shortName": "SBR"
+    },
+    {
+        "id": "SBR701",
+        "name": "KliKKi",
+        "shortName": "SBR"
+    },
+    {
+        "id": "SBR910",
+        "name": "Koncernövergripande projekt",
+        "shortName": "SBR"
+    },
+    {
+        "id": "SBRD001",
+        "name": "fakturering",
+        "shortName": "SBRD"
+    },
+    {
+        "id": "STOS1000",
+        "name": "Licenser",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS1002",
+        "name": "Övriga Licenser",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS2100",
+        "name": "Intranätet",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS3031",
+        "name": "Verksamhetswebbar",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS3111",
+        "name": "StocksholmsNytt",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS3345",
+        "name": "StockholmsNytt .NET BE",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS3374",
+        "name": "Hitta Service",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS3471",
+        "name": "stockholm.se responsiv",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS4090",
+        "name": "Intranät Utbildning",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS4130",
+        "name": "VW - Stadsarkivet",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS4151",
+        "name": "support St Webb",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS4152",
+        "name": "förvaltning St Webb",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS4220",
+        "name": "Intranätet - Förstudie Ny Sök",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS7080",
+        "name": "stockholm.se",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS888",
+        "name": "Försäljning SLK Kommstaben",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS1150",
+        "name": "Skolornas Webbar",
+        "shortName": "Förvaltning) STOS"
+    },
+    {
+        "id": "STOS3371",
+        "name": "Pedagog Stockholm",
+        "shortName": "vidareutveckling) STOS"
+    },
+    {
+        "id": "STOS3510",
+        "name": "Pedagog Stockholm",
+        "shortName": "förvaltning) STOS"
+    },
+    {
+        "id": "STOS4033",
+        "name": "PI koncept och förstudie",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS4033",
+        "name": "PI prototyp",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS4034",
+        "name": "E-tjänst självskattning",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS4210",
+        "name": "Skolornas Webbar Responsiv",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS4261",
+        "name": "PI detaljering",
+        "shortName": "aug-sep) STOS"
+    },
+    {
+        "id": "STOS888",
+        "name": "Försäljning Utbildningsförvaltningen",
+        "shortName": "STOS"
+    },
+    {
+        "id": "Vidareutveckling",
+        "name": "hemsidor HT2012",
+        "shortName": "STOS"
+    },
+    {
+        "id": "SVB001",
+        "name": "fakturering",
+        "shortName": "SVB"
+    },
+    {
+        "id": "SVB0010",
+        "name": "Stockholmskortet, Analys",
+        "shortName": "SVB"
+    },
+    {
+        "id": "SVB0011",
+        "name": "Annonsbokning",
+        "shortName": "SVB"
+    },
+    {
+        "id": "SVB033",
+        "name": "timmar från SBR033 - SVB",
+        "shortName": "SVB"
+    },
+    {
+        "id": "SVB666",
+        "name": "SVB sociala kanaler",
+        "shortName": "SVB"
+    },
+    {
+        "id": "SVB667",
+        "name": "SVB kulturhuset",
+        "shortName": "SVB"
+    },
+    {
+        "id": "SVB685",
+        "name": "SVB Kampanjramverk",
+        "shortName": "SVB"
+    },
+    {
+        "id": "SVB888",
+        "name": "Sälj",
+        "shortName": "SVB"
+    },
+    {
+        "id": "SLL",
+        "name": "- Social Media Strategi Tobiasregistret",
+        "shortName": "SLL"
+    },
+    {
+        "id": "STOS9050",
+        "name": "Förvaltningar",
+        "shortName": "småuppdrag) STOS"
+    },
+    {
+        "id": "STOS1001",
+        "name": "Licenser Miljöförvaltningen",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS2450",
+        "name": "Upptäck Stockholm",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS3376",
+        "name": "Livsmedel och Värmepumpar",
+        "shortName": "e-tjänst) STOS"
+    },
+    {
+        "id": "STOS4140",
+        "name": "Kontrollapp",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS4142",
+        "name": "Solstaden",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS888",
+        "name": "Försäljning Miljöförvaltningen",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS1201",
+        "name": "samverkanscentralen",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS1202",
+        "name": "samverkanscentralen vidareutveckling",
+        "shortName": "STOS"
+    },
+    {
+        "id": "STOS888",
+        "name": "Försäljning Program för Samverkan",
+        "shortName": "STOS"
+    },
+    {
+        "id": "SHEM",
+        "name": "- Extranet",
+        "shortName": "SHEM"
+    },
+    {
+        "id": "SHEM0002",
+        "name": "Mobilt",
+        "shortName": "SHEM"
+    },
+    {
+        "id": "SHEM0003",
+        "name": "order 80%",
+        "shortName": "SHEM"
+    },
+    {
+        "id": "SHEM0004",
+        "name": "",
+        "shortName": "SHEM"
+    },
+    {
+        "id": "SHEM1000",
+        "name": "Licenser",
+        "shortName": "SHEM"
+    },
+    {
+        "id": "SHEM1201",
+        "name": "Lediga bilplatser",
+        "shortName": "SHEM"
+    },
+    {
+        "id": "SHEM1203",
+        "name": "Fint hemma",
+        "shortName": "SHEM"
+    },
+    {
+        "id": "SHEM1301",
+        "name": "Kundbild",
+        "shortName": "SHEM"
+    },
+    {
+        "id": "SHEM1303",
+        "name": "Årsredovisning",
+        "shortName": "SHEM"
+    },
+    {
+        "id": "SHEM2006",
+        "name": "888 - Försäljning",
+        "shortName": "SHEM"
+    },
+    {
+        "id": "SHEM610",
+        "name": "Vidareutveckling Webb",
+        "shortName": "SHEM"
+    },
+    {
+        "id": "SHEM680",
+        "name": "Support",
+        "shortName": "SHEM"
+    },
+    {
+        "id": "STOK888",
+        "name": "",
+        "shortName": "STOK"
+    },
+    {
+        "id": "STOR888",
+        "name": "",
+        "shortName": "STOR"
+    },
+    {
+        "id": "SUPE888",
+        "name": "Försäljning",
+        "shortName": "SUPE"
+    },
+    {
+        "id": "SVD1401",
+        "name": "Digital positionering",
+        "shortName": "SVD"
+    },
+    {
+        "id": "0001",
+        "name": "Filminstitutet upphandling",
+        "shortName": "Svenska"
+    },
+    {
+        "id": "SVEI9000",
+        "name": "Licenser",
+        "shortName": "Svenska"
+    },
+    {
+        "id": "SVEI9001",
+        "name": "coordination sweden.se",
+        "shortName": "Svenska"
+    },
+    {
+        "id": "SVEI9002",
+        "name": "coordination si.se",
+        "shortName": "Svenska"
+    },
+    {
+        "id": "SVEI9003",
+        "name": "coordination swinto",
+        "shortName": "Svenska"
+    },
+    {
+        "id": "SVEI9004",
+        "name": "coordination SPFM",
+        "shortName": "Svenska"
+    },
+    {
+        "id": "SVEI9005",
+        "name": "coordination studyinsweden",
+        "shortName": "Svenska"
+    },
+    {
+        "id": "SVT",
+        "name": "VM-site",
+        "shortName": "SVT"
+    },
+    {
+        "id": "SVT",
+        "name": "webbyrå",
+        "shortName": "SVT"
+    },
+    {
+        "id": "SVT",
+        "name": "- Sälj",
+        "shortName": "SVT"
+    },
+    {
+        "id": "SVT1401",
+        "name": "VM-site utforskning",
+        "shortName": "SVT"
+    },
+    {
+        "id": "SVT1402",
+        "name": "VM-site implementation",
+        "shortName": "SVT"
+    },
+    {
+        "id": "SWEC",
+        "name": "/888-försäljning",
+        "shortName": "SWEC"
+    },
+    {
+        "id": "SWEC1000",
+        "name": "Licenser",
+        "shortName": "SWEC"
+    },
+    {
+        "id": "SWEC1110",
+        "name": "Intranät vidareutveckling 2013",
+        "shortName": "SWEC"
+    },
+    {
+        "id": "SWEC1302",
+        "name": "Webbanalys Externa webben",
+        "shortName": "SWEC"
+    },
+    {
+        "id": "SWEC1304",
+        "name": "Migrering Vecturas blogg",
+        "shortName": "SWEC"
+    },
+    {
+        "id": "SWEC1305",
+        "name": "Dashboard för skärmlösning",
+        "shortName": "SWEC"
+    },
+    {
+        "id": "SWEC1401",
+        "name": "Webbanalys",
+        "shortName": "SWEC"
+    },
+    {
+        "id": "SWEC1403",
+        "name": "Förstudie ny externwebb",
+        "shortName": "SWEC"
+    },
+    {
+        "id": "SWEC1405",
+        "name": "Mobilanpassa intranet",
+        "shortName": "Implementation) SWEC"
+    },
+    {
+        "id": "SWEC1406",
+        "name": "Design av tjänsteportal",
+        "shortName": "SWEC"
+    },
+    {
+        "id": "SWEC2181",
+        "name": "Externa webben",
+        "shortName": "SWEC"
+    },
+    {
+        "id": "SWEC2451",
+        "name": "Sweco@work",
+        "shortName": "SWEC"
+    },
+    {
+        "id": "SWEC3021",
+        "name": "Webbanalys Intranätet",
+        "shortName": "SWEC"
+    },
+    {
+        "id": "SWEC3022",
+        "name": "Förstudie mobil version av Intranätet",
+        "shortName": "SWEC"
+    },
+    {
+        "id": "SWEC3023",
+        "name": ", Sweco-blogg",
+        "shortName": "SWEC"
+    },
+    {
+        "id": "SWEC3121",
+        "name": "Swecopedia",
+        "shortName": "SWEC"
+    },
+    {
+        "id": "SWEC3181",
+        "name": "Feedbackbox",
+        "shortName": "SWEC"
+    },
+    {
+        "id": "SWEC9020",
+        "name": "Intranet",
+        "shortName": "SWEC"
+    },
+    {
+        "id": "Swed1301",
+        "name": "Intranät förstudie",
+        "shortName": "SWED"
+    },
+    {
+        "id": "Swed888",
+        "name": "Försäljning",
+        "shortName": "SWED"
+    },
+    {
+        "id": "0001TM",
+        "name": "Digital strategi",
+        "shortName": "Tekniska"
+    },
+    {
+        "id": "TESV1001",
+        "name": "Licenser",
+        "shortName": "Telia"
+    },
+    {
+        "id": "TESV1103",
+        "name": "Åtgärder forum privat",
+        "shortName": "Telia"
+    },
+    {
+        "id": "TESV1401",
+        "name": "Responsive forum privat",
+        "shortName": "Telia"
+    },
+    {
+        "id": "TESV2011",
+        "name": "888 - Försäljning",
+        "shortName": "Telia"
+    },
+    {
+        "id": "TENA0888",
+        "name": "Försäljning",
+        "shortName": "TENA"
+    },
+    {
+        "id": "TENA3000",
+        "name": "Löpande rådgivning",
+        "shortName": "TENA"
+    },
+    {
+        "id": "TENA3001",
+        "name": "Droppa myterna",
+        "shortName": "TENA"
+    },
+    {
+        "id": "TENA3002",
+        "name": "Vårruset",
+        "shortName": "TENA"
+    },
+    {
+        "id": "TENA30025",
+        "name": "Reaktivering Droppa Myterna",
+        "shortName": "TENA"
+    },
+    {
+        "id": "TENA3003",
+        "name": "Rosa Bandet",
+        "shortName": "TENA"
+    },
+    {
+        "id": "TENA3004",
+        "name": "Money back",
+        "shortName": "TENA"
+    },
+    {
+        "id": "TENA3005",
+        "name": "Go grab life Facebook page",
+        "shortName": "TENA"
+    },
+    {
+        "id": "TENA3006",
+        "name": "Go grab life Tävling",
+        "shortName": "TENA"
+    },
+    {
+        "id": "TENA3007",
+        "name": "Lights by TENA",
+        "shortName": "TENA"
+    },
+    {
+        "id": "TIET4065",
+        "name": "SIKT-flytt",
+        "shortName": "Tieto2"
+    },
+    {
+        "id": "TIET4300",
+        "name": "SIKT-upphandlingen",
+        "shortName": "Tieto2"
+    },
+    {
+        "id": "TIET888",
+        "name": "SIKT-upphandlingen",
+        "shortName": "ej debiterbart) Tieto2"
+    },
+    {
+        "id": "TIMG1401",
+        "name": "Mobilgränssnitt",
+        "shortName": "TIMG"
+    },
+    {
+        "id": "TIMG888",
+        "name": "Löpande sälj",
+        "shortName": "TIMG"
+    },
+    {
+        "id": "TORK1219",
+        "name": "Livechat support",
+        "shortName": "TORK"
+    },
+    {
+        "id": "TORK1302",
+        "name": "French translations Checkers",
+        "shortName": "TORK"
+    },
+    {
+        "id": "TORK1303",
+        "name": "Justeringar Go Digital",
+        "shortName": "TORK"
+    },
+    {
+        "id": "TORK2006",
+        "name": "888 - Försäljning",
+        "shortName": "TORK"
+    },
+    {
+        "id": "UTVP1401",
+        "name": "Extra orders",
+        "shortName": "UTVP"
+    },
+    {
+        "id": "UTVP2013",
+        "name": "888 -Försäljning",
+        "shortName": "UTVP"
+    },
+    {
+        "id": "VAAS",
+        "name": "extern webb 2014",
+        "shortName": "VAAS"
+    },
+    {
+        "id": "VAST1301",
+        "name": "Mobil site",
+        "shortName": "VAST"
+    },
+    {
+        "id": "VAST1302",
+        "name": "",
+        "shortName": "VAST"
+    },
+    {
+        "id": "VAST1303",
+        "name": "Restid",
+        "shortName": "VAST"
+    },
+    {
+        "id": "VAST1304",
+        "name": "Ikoner",
+        "shortName": "VAST"
+    },
+    {
+        "id": "VAST1305",
+        "name": "Appstruktur",
+        "shortName": "VAST"
+    },
+    {
+        "id": "VAST1306",
+        "name": "Ny app",
+        "shortName": "VAST"
+    },
+    {
+        "id": "VAST1307",
+        "name": "Workshop app",
+        "shortName": "VAST"
+    },
+    {
+        "id": "VAST1308",
+        "name": "Workshop app fortsättning",
+        "shortName": "VAST"
+    },
+    {
+        "id": "VAST888",
+        "name": "Hello world",
+        "shortName": "VAST"
+    },
+    {
+        "id": "VINN1401",
+        "name": "Prototyp Ansökningsmodul",
+        "shortName": "Vinnova"
+    },
+    {
+        "id": "VINN1402",
+        "name": "Ansökningsmodul",
+        "shortName": "Vinnova"
+    },
+    {
+        "id": "VOLV0888",
+        "name": "Försäljning",
+        "shortName": "VoRe"
+    },
+    {
+        "id": "VOLV1102",
+        "name": "Koncept",
+        "shortName": "VoRe"
+    },
+    {
+        "id": "VOLV1105",
+        "name": "Löpande stöd Volvia Implementation",
+        "shortName": "VoRe"
+    },
+    {
+        "id": "VOLV1106",
+        "name": "Support under utveckling",
+        "shortName": "VoRe"
+    },
+    {
+        "id": "VOLV1107",
+        "name": "QA",
+        "shortName": "VoRe"
+    },
+    {
+        "id": "VOLV1108",
+        "name": "Användartest",
+        "shortName": "VoRe"
+    },
+    {
+        "id": "VOLV1109",
+        "name": "Designuppdatering",
+        "shortName": "VoRe"
+    },
+    {
+        "id": "VOLV1110",
+        "name": "Löpande projektledning/strategi",
+        "shortName": "VoRe"
+    },
+    {
+        "id": "VOLV1111",
+        "name": "Webmanual",
+        "shortName": "VoRe"
+    },
+    {
+        "id": "VOLV1402",
+        "name": "Responsiv design Volvia/Renault",
+        "shortName": "VoRe"
+    },
+    {
+        "id": "VOTR",
+        "name": "Försäljning",
+        "shortName": "VOTR"
+    },
+    {
+        "id": "VOCA888",
+        "name": "Försäljning",
+        "shortName": "VOC"
+    }
+]
