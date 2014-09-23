@@ -7,6 +7,9 @@
     - `npm install http-server -g`
     - `http-server`
     - Surfa till: http://0.0.0.0:8080
+- Lägg upp repo på [CreunaLabs](https://git.creuna.se/projects/CRELA/repos?create)
+    - Döp repot till Angular-Labb-dittnamn
+    - Kör `git remote set-url origin ditt-repo`
 
 ## Uppdrag:
 Såhär ser vår Timegrips rapporteringsvy ut idag. Bygg en likadan eller förbättrad version i AngularJS så långt du hinner. Försök på att få med så många Angulars funktioner som möjligt. 
